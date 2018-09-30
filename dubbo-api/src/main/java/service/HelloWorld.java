@@ -1,4 +1,4 @@
-package com.study.service;
+package dubbo.provider.service;
 
 public interface HelloWorld {
 
